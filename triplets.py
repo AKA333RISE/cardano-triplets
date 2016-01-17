@@ -14,10 +14,10 @@ def formula(a,b,c):
     
 count = 0
 
-for a in range(1,998):
-    for b in range(1,998):
-        for c in range (1,998):
-            if a+b+c <= 110000000:
+for a in range(1,1000):
+    for b in range(1,1000):
+        for c in range (1,1000):
+            if a+b+c <= 1000:
                 calc = formula(a,b,c)
                 if str(calc)== "1.0":
                     print str(calc)
