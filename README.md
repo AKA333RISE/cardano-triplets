@@ -1,2 +1,2 @@
 # Cardano Triplets
-Python 2.7
+Unsolved. Python 2.7
